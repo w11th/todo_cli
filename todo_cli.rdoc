@@ -1,0 +1,5 @@
+= todo_cli
+
+Generate this with
+    todo_cli rdoc
+After you have described your command line interface
